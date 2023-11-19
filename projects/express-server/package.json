@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dima Kryshtopa toradora477@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "~3.1.0",
+    "eslint": "~8.54.0",
+    "eslint-config-node": "~4.1.0",
+    "eslint-config-prettier": "~9.0.0"
+  }
 }
