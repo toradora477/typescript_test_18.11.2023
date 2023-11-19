@@ -430,7 +430,7 @@
     //   "tags": [ "tools" ]
     // }
      {
-      "packageName": "test-crm",
+      "packageName": "react-app",
       "projectFolder": "projects/react-app",
       "reviewCategory": "production",
       "tags": ["frontend"]
