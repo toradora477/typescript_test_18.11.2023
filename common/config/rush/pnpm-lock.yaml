@@ -30,6 +30,7 @@ importers:
 
   ../../projects/react-app:
     specifiers:
+      '@ant-design/icons': ~5.2.6
       '@types/react': ~18.2.37
       '@types/react-dom': ~18.2.15
       antd: ~5.11.2
@@ -45,6 +46,7 @@ importers:
       typescript: ~5.2.2
       xlsx: ~0.18.5
     dependencies:
+      '@ant-design/icons': 5.2.6_react-dom@18.2.0+react@18.2.0
       '@types/react': 18.2.37
       '@types/react-dom': 18.2.15
       antd: 5.11.2_react-dom@18.2.0+react@18.2.0
